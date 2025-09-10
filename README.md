@@ -1,1 +1,1 @@
-# python-practicle
+# python-practical
